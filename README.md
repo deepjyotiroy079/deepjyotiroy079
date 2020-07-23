@@ -9,8 +9,8 @@
 - 🧐 Curious about Blockchain Technology.
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=deepjyotiroy079&show_icons=true&theme=radical&line_height=33">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=deepjyotiroy079&hide_langs_below=.25&theme=radical">
+  <img src = "https://github-readme-stats.vercel.app/api?username=deepjyotiroy079&show_icons=true&line_height=33">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=deepjyotiroy079&hide_langs_below=.25">
 </p>
 
 
