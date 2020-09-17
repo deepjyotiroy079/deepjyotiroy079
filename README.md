@@ -9,7 +9,5 @@
 - 💼 Currently working as Associate Software Engineer.
 - 👨‍💻 Technologies I enjoy working with includes Angular, Express, REST APIs.
 - 🧐 Curious about Blockchain Technology.
+- 💻 Learning React JS in free time.
 
-<p align = "left">
-  <img src = "https://github-readme-stats.vercel.app/api?username=deepjyotiroy079&show_icons=true&line_height=33">
-</p>
