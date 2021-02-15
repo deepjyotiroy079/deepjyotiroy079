@@ -7,5 +7,5 @@
 - 💼 Currently working as Associate Software Engineer.
 - 👨‍💻 Technologies I enjoy working with includes Angular, Express, REST APIs.
 - 🧐 Curious about Blockchain Technology.
-- ⚛️ Learning React JS in free time.
+- ⚛️ Currently learning Big Data Tools (hadoop, spark, pig etc...).
 
