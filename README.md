@@ -7,5 +7,5 @@
 - 💼 Currently working as Associate Software Engineer (Working with Informatica ETL Tool).
 - 👨‍💻 Technologies I enjoy working with includes Angular, Express, REST APIs. (PS: Not an expert.😂)
 - 🧐 Curious about Blockchain Technology.
-- ⚛️ Currently learning Big Data Tools (hadoop, spark, pig etc...).
+- ⚛️ Currently learning Big Data Tools (hadoop, spark, pig etc...) and Informatica ETL.
 
