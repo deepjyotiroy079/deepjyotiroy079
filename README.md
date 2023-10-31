@@ -1,7 +1,15 @@
 
 
-### Hey 👋🏽, I'm [Deepjyoti!](https://deepjyotiroy.vercel.app/) 
+<!--### Hey 👋🏽, I'm [Deepjyoti!](https://deepjyotiroy.vercel.app/) -->
 
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/de_coder_079) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/deepjyoti-roy-079/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/de_coder_079/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/deepjyoti.roy.169) 
+# 💫 About Me:
+🔭 **I’m currently working on:**  <br>Cloud based and on-premise based ETL tools, Microsoft SQL Server, Redshift and Python.<br><br>👯 **I’m looking to collaborate on:**  <br>Node.js based backend and Python projects<br><br>🌱 **I’m currently learning:**  <br>FastAPI.<br><br>💬 **Ask me about:**  <br>Data Warehousing, ETL Development, Python and any general software development questions.<br><br>
+
+## 🌐 Socials:
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/de_coder_079) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepjyoti-roy-079/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/de_coder_079/) 
+---
+[![](https://visitcount.itsvg.in/api?id=nwaliaez&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
